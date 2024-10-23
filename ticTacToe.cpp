@@ -1,3 +1,6 @@
+// Tic-Tac-Toe Game
+//Author: Endale Gooley
+// Date: 10/23/2024
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
