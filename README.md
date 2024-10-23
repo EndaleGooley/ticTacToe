@@ -1,4 +1,4 @@
-  ❌⭕️❌⭕️❌⭕️❌⭕️❌⭕️❌⭕️❌⭕️##Tic-Tac-Toe Game❌⭕️❌⭕️❌⭕️❌⭕️❌⭕️❌⭕️❌⭕️❌⭕️
+  ❌⭕️❌⭕️❌⭕️❌⭕️❌⭕️❌⭕️❌⭕️##Tic-Tac-Toe Game##❌⭕️❌⭕️❌⭕️❌⭕️❌⭕️❌⭕️❌⭕️❌⭕️
 
 ## Overview
 This project is a console-based **Tic-Tac-Toe** game written in C++. The game allows the user to play against a basic AI. It includes features like alternating turns, checking for wins and ties, and a simple AI that either wins, blocks, or makes random moves.
