@@ -1,7 +1,7 @@
-❌⭕️❌⭕️❌⭕️ ***Tic-Tac-Toe Game*** ❌⭕️❌⭕️❌⭕️❌
+# Tic-Tac-Toe
 
 ## Overview
-This project is a console-based **Tic-Tac-Toe** game written in C++. The game allows the user to play against a basic AI. It includes features like alternating turns, checking for wins and ties, and a simple AI that either wins, blocks, or makes random moves.
+This project is a console-based Tic-Tac-Toe game written in C++. The game allows the user to play against a basic AI. It includes features like alternating turns, checking for wins and ties, and a simple AI that either wins, blocks, or makes random moves.
 
 ## Features
 - **Two-player mode**: Playable by a human against an AI.
@@ -15,6 +15,7 @@ This project is a console-based **Tic-Tac-Toe** game written in C++. The game al
 - To clone the repository, use the command:
   ```bash
   git clone https://github.com/ticTacToe/tic-tac-toe.git
+  ```
 
 ## Development challenges
 i) 
