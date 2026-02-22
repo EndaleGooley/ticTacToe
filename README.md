@@ -27,9 +27,10 @@ Solution: After careful debugging, I realized the issue was due to how the board
 ii) 
 Problem: 
 Building the AI was another challenge. The AI had to:
--Try to win if it could place its mark to win.
--Block the player if the player was about to win.
--Make a random move if neither of the above applied.
+
+- Try to win if it could place its mark to win.
+ - Block the player if the player was about to win.
+- Make a random move if neither of the above applied.
 
 Solution: I wrote the aiMove() function to simulate moves by temporarily placing a mark on the board, checking if the AI could win, and reverting the move if it didn't result in a win. Similarly, it checks if the player is about to win and blocks them. If neither condition is met, the AI makes a random valid move.
 
